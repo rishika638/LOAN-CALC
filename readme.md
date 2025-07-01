@@ -26,10 +26,3 @@ An intuitive **Loan EMI Calculator** built using **HTML, CSS, JavaScript**, and 
 
 ---
 
-## 📌 Screenshot
-
-> EMI calculation with monthly breakdown visualization:
-
-![Loan Calculator Preview](./07b3d72e-8915-4ab3-bfac-6ffeaef665a8.png)
-
----
